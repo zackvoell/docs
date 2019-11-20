@@ -75,7 +75,6 @@ What is the difference between Lightning and Liquid?
 ====================================================
 
 Liquid and Lightning are separate networks with distinct but complementary functions.
-=====================================================================================
 
 - Payment size: Lightning optimizes for micropayments by requiring payment routing between parties to execute a transaction, which makes larger transactions more difficult to complete. Liquid enables payments of any size at any time.
 - Asset swaps: Liquid is a multi-asset network that supports natively issued tokens, which can make Liquid more useful for single-transaction atomic asset swaps than attempting atomic swaps via Lightning.
